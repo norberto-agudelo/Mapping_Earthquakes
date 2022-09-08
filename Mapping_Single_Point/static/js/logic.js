@@ -5,7 +5,7 @@ console.log("working");
 // let marker = L.marker([34.0522, -118.2437]).addTo(map);
 let marker = L.marker([34.0522, -118.2437]).addTo(map);
 
-// let map = L.map('mapid').setView([34.0522, -118.3437], 14);
+let map = L.map('mapid').setView([34.0522, -118.3437], 14);
 
 //  Add a marker to the map for Los Angeles, California.
 // L.circle([34.0522, -118.2437], {
